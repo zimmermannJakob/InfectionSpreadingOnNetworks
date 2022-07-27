@@ -7,4 +7,4 @@ The topic of the Project was Infection spreading on a Network, specified by the 
 -	Visualization of the one-wave spreading dynamic
 -	super spreader as super connected nodes
 
-As the notebook was used for presentation purposes it is not intended to be self-explanatory, however most of the code is commented.  
+As the notebook was created for presentation purposes it is not intended to be self-explanatory, however most of the code is commented.  
